@@ -1,2 +1,2 @@
 # CoffeeHouse
-Exploratory Data Analysis of A Coffee House Survey
+Using python libraries - Pandas and Matplotlib to conduct a Exploratory Data Analysis from the survey.
